@@ -1,0 +1,21 @@
+body {
+    background: #2c2c2c;
+}
+
+main .enter_url {
+    float:left;
+    color: #fff;
+    margin-top: 100px;
+    text-align: center;
+    width: 50%;
+    margin-left: 25%
+}
+
+main .enter_url h1{
+    font-size:50px;
+}
+
+form {
+    width: 500ps;
+    margin-top 50px;
+}
